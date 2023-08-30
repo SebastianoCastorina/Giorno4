@@ -1,0 +1,7 @@
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\bin\Debug\Contocorrente.exe.config
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\bin\Debug\Contocorrente.exe
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\bin\Debug\Contocorrente.pdb
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\obj\Debug\Contocorrente.csproj.AssemblyReference.cache
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\obj\Debug\Contocorrente.csproj.CoreCompileInputs.cache
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\obj\Debug\Contocorrente.exe
+C:\Users\Seby\source\repos\Contocorrente\Contocorrente\obj\Debug\Contocorrente.pdb
